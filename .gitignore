@@ -12,3 +12,6 @@ venv.bak/
 
 #Images
 *.tiff
+
+#Numpy files
+*.npy
